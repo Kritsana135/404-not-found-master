@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src="public/image/demo.jpg"  height="500" >
+<img src="./public/image/demo.jpg"  height="500" >
 
 
 ### Built With
