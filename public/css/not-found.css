@@ -1,0 +1,55 @@
+body{
+    font-family: 'Space Mono', monospace;
+}
+
+.main-text{
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+
+.detail-text{
+    font-weight: 400;
+    font-size: 1.5rem;
+    max-width: 390px;
+
+}
+
+
+footer{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+}
+
+.back-home-btn{
+    background-color: #333333;
+    color:white;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    display: inline-block;
+    border:none;
+    text-decoration: none;
+    width: 216px;
+    height: 68px;
+}
+
+.margin-con{
+    margin-top: 10%;
+}
+
+.not-found-title{
+    font-family: 'Inconsolata';
+    font-weight: 700;
+    font-size: 24px;
+    color: #333333;
+    position: relative;
+    margin-top: 10px;
+}
+
+.flex-m{
+    margin: 15px;
+}
+
+
